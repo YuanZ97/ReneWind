@@ -1,2 +1,2 @@
 # ReneWind
-ML model that predicts
+ML model for wind turbine predictive maintenance.
